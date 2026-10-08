@@ -1,0 +1,79 @@
+Findings from the project
+
+• Total Revenue: ₹12.5 Lakhs
+• Top Category: Electronics (42% of sales)
+• Top Customer: Rohit (₹85,000 spent)
+• Top City: Bengaluru
+• Most Used Payment Mode: UPI (38% of orders)
+
+
+Key Findings:-
+
+
+1. Sales Performance
+
+Generated revenue across multiple product categories including Furniture, Electronics, Fashion, and Home.
+Electronics and Furniture contributed the highest share of overall sales.
+Monthly sales analysis revealed seasonal fluctuations in customer purchasing behavior.
+
+2. Customer Insights
+
+A small group of customers contributed a significant portion of total revenue.
+Repeat purchases were observed among several customers, indicating customer retention opportunities.
+High-value customers were identified through total spending analysis.
+
+3. Product Analysis
+
+Laptop, Chair, Watch, and other premium products generated higher revenue per transaction.
+Some products achieved high sales volume but lower profitability due to discounts.
+Product-wise revenue analysis helped identify top-performing items.
+
+4. Geographic Analysis
+
+Major cities such as Bengaluru, Delhi, Pune, and Jaipur contributed significantly to sales.
+State-wise analysis highlighted the strongest regional markets.
+Geographic trends can support targeted marketing campaigns.
+
+5. Payment Behavior
+
+UPI, Card, Wallet, and COD were the primary payment methods used by customers.
+Digital payment methods accounted for a large share of transactions.
+Understanding payment preferences can improve customer experience.
+
+6. Order Fulfillment
+
+Order status analysis identified Delivered, Pending, and Returned orders.
+Return patterns provide insight into operational and customer satisfaction issues.
+Delivery performance can be monitored using delivery dates and order statuses.
+
+7. Profitability Insights
+
+Net sales and profit calculations were performed using quantity, unit price, and discount data.
+Discount strategies impacted overall profitability across product categories.
+High-revenue products were not always the most profitable.
+
+8. Data Quality Improvements
+
+Missing values were identified and handled appropriately.
+Net Amount and Profit metrics were created for business analysis.
+Data cleaning improved the reliability of reporting and insights.
+Business Recommendations
+Focus marketing efforts on top-selling products and regions.
+Increase retention efforts for high-value customers.
+Review high-discount products to improve profitability.
+Promote preferred digital payment options.
+Investigate returned orders to reduce operational losses.
+
+
+Skills Demonstrated
+
+SQL Data Cleaning
+Python(Pandas,Numpy)
+Data Transformation
+Aggregate Functions
+CASE Statements
+GROUP BY & ORDER BY
+Revenue & Profit Analysis
+Customer Segmentation
+Product Performance Analysis
+Business Intelligence Reporting
